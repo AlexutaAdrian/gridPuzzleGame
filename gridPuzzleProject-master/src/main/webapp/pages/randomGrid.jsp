@@ -162,6 +162,7 @@
                             sideRowTableFinalValue = +value;
                         }
 
+
                         if (sideRowTableFinalValue == NaN) {
                             sideRowTableFinalValue = 0;
                         }
