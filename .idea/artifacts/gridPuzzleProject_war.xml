@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gridPuzzleProject:war">
+    <output-path>$PROJECT_DIR$/gridPuzzleProject-master/target</output-path>
+    <root id="archive" name="gridPuzzleProject.war">
+      <element id="artifact" artifact-name="gridPuzzleProject:war exploded" />
+    </root>
+  </artifact>
+</component>
